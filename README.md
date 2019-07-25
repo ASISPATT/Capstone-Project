@@ -84,4 +84,8 @@ We will develop a deep neural network model that can predict the risk of prediab
 
 This diabetes risk score will help significantly in alarming the high-risk individual to take appropriate action much before the diabetes surfaces. This will help in reducing the unprecedented health care challenges in India that has arose due to diabetes.
 
+The Softwares used:
+•	Language :  Python 
+•	Application:  Jupiter Notebook  
+•	Libraries:  SK Learn, Keras, Matplotlib, Pandas, Numpy, Graphviz
 
